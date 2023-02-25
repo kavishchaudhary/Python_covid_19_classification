@@ -11,7 +11,6 @@ Data Dictionary
 •	age: of the patient.
 
 •	classification: covid test findings. Values 1-3 mean that the patient was diagnosed with covid in different degrees. 4 or higher means that the patient is not a 
-
 carrier of covid or that the test is inconclusive.
 
 •	patient type: type of care the patient received in the unit. 1 for returned home and 2 for hospitalization.
