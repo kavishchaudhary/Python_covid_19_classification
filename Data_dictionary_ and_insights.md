@@ -4,7 +4,7 @@ The raw dataset consists of 21 unique features and 1,048,576 unique patients. In
 
 
 
-Data Dictionary
+Data Dictionary:
 
 •	sex: 1 for female and 2 for male.
 
